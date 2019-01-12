@@ -16,13 +16,9 @@ Scracth merupakan bahasa pemrograman python dan java yang berbentuk visual. Baha
 
 Scratch dikembangkan oleh kelompok penelitian Lifelong Kindergarten di MIT Media Lab. (Kindergarten, 2013). Untuk penggunaan secara online disarankan untuk menggunakan Mozilla Firefox atau Google Chrome sebagai browser. Penggunaan Internet Explorer bermasalah ketika Sign In. (Lero, 2014)
 
-Scratch Online
+Scratch Online - Penggunaan Scratch secara online bisa melalui https://scratch.mit.edu/ . Scratch memiliki komunitas yan mana dapat berbagi dan berkolaborasi dengan pengguna lain. Dapat bergabung ke dalam komunitas dengan membuat akun Scratch terlebih dahulu.
 
-Penggunaan Scratch secara online bisa melalui https://scratch.mit.edu/ . Scratch memiliki komunitas yan mana dapat berbagi dan berkolaborasi dengan pengguna lain. Dapat bergabung ke dalam komunitas dengan membuat akun Scratch terlebih dahulu.
-
-Scracth Offline
-
-Scracth Offline dapat diunduh di https://scratch.mit.edu/download . Terdapat dalam bentuk macOS maupun windows silahkan pilih sesuai OS yang digunakan. Sampai saat ini Scracth Offline hanya ada dua versi yaitu Scratch 2.0 dan Scratch 1.4.
+Scracth Offline - Scracth Offline dapat diunduh di https://scratch.mit.edu/download . Terdapat dalam bentuk macOS maupun windows silahkan pilih sesuai OS yang digunakan. Sampai saat ini Scracth Offline hanya ada dua versi yaitu Scratch 2.0 dan Scratch 1.4.
 
 
 
