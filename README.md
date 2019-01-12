@@ -3,6 +3,7 @@
 UAS Pemrograman Game Lanjut
 
 Mohammad Shiddiq Ghozali
+
 115103016
 
 Gamification Sistem non-gaming yang ada di github.
