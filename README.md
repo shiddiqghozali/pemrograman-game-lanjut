@@ -12,7 +12,7 @@ SCRACTH - Programming Language
 
 ![alt text](https://assets.pcmag.com/media/images/367306-scratch-from-mit.jpg?width=530&height=345)
 
-Scracth merupakan bahasa pemrograman python dan java yang berbentuk visual. Bahasa pemrograman yang digunakan untuk memudahkan membuat    animasi, games, musik, seni dan cerita sesuai kebutuhan secara interaktif. Scracth digunakan untuk mengajarkan bahasa pemrograman kepada anak-anak maupun programer pemula secara fun. Dikarenakan berbentuk visual dan syntaxnya dalam bahasa yang mudah dimengerti yaitu memakai bahasa Inggris sehari-hari. Sehingga lebih mudah untuk memahami maksud dari syntaxnya. Cara menggunakannya hanya dengan drag and drop syntax saja.
+Scracth merupakan bahasa pemrograman python dan java yang berbentuk visual. Bahasa pemrograman yang digunakan untuk memudahkan membuat    animasi, games, musik, seni dan cerita sesuai kebutuhan secara interaktif. Scracth digunakan untuk mengajarkan bahasa pemrograman kepada anak-anak maupun programer pemula secara fun. Dikarenakan berbentuk visual dan code nya dalam bahasa yang mudah dimengerti yaitu memakai bahasa Inggris sehari-hari. Sehingga lebih mudah untuk memahami maksud dari code nya. Cara menggunakannya hanya dengan drag and drop code nya saja.
 
 Scratch dikembangkan oleh kelompok penelitian Lifelong Kindergarten di MIT Media Lab. (Kindergarten, 2013). Untuk penggunaan secara online disarankan untuk menggunakan Mozilla Firefox atau Google Chrome sebagai browser. Penggunaan Internet Explorer bermasalah ketika Sign In. (Lero, 2014)
 
