@@ -20,6 +20,10 @@ Scratch Online - Penggunaan Scratch secara online bisa melalui https://scratch.m
 
 Scracth Offline - Scracth Offline dapat diunduh di https://scratch.mit.edu/download . Terdapat dalam bentuk macOS maupun windows silahkan pilih sesuai OS yang digunakan. Sampai saat ini Scracth Offline hanya ada dua versi yaitu Scratch 2.0 dan Scratch 1.4.
 
+untuk melihat data flow diagram dan gamification silahkan lihat powerpoint di link berikut :
+
+https://drive.google.com/open?id=1lUkYydR_XV4QQ2LpCxfg-1UY56pCysaC
+
 
 
 
